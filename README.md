@@ -1,13 +1,18 @@
 # 454 Retail Calendar
 
+![Mockup](https://github.com/dejvoss/retail-454-calendar/blob/main/Retail%20454%20Calendar%20Generator.png)
+
+
 ## Description
 
 "454 Retail Calendar" is a Flask-based web application that allows users to generate a 4-5-4 retail calendar for a
 selected year. The 4-5-4 retail calendar is widely used in the retail industry for tracking sales performance and
 planning. The application enables the calendar to be generated in two formats: a printable PDF version and an Excel
 spreadsheet format.
-I have built that application to help me with my work as I could find many 4-5-4 calendar but all was in the printable
-format and I needed to have it in Excel format to be able to use for calculations and for database purposes.
+I have built that application to help me with my work as I could find many 4-5-4 calendars but all were in the printable
+format and I needed to have it in Excel format to be able to use it for calculations and database purposes.
+[Live demo](https://calendar454.deos.work/)
+
 
 ## Features
 
